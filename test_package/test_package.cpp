@@ -1,7 +1,11 @@
 #include <iostream>
+#include <GL/glu.h>
 
 int main()
 {
-    std::cout << "Bincrafters\n";
+	if(const auto str = gluGetString(GLU_VERSION))
+	{
+		std::cout << "Glu version; " << str << std::endl;
+	}
     return 0;
 }
