@@ -16,7 +16,6 @@ class MesaGluConan(ConanFile):
     default_options = {"shared": False, "fPIC": True}
 
     _source_subfolder = "source_subfolder"
-    _build_subfolder = "build_subfolder"
     _autotools = None
 
     requires = (
