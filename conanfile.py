@@ -48,8 +48,8 @@ class MesaGluConan(ConanFile):
         return self._autotools
 
     def build(self):
-        autotools = self._configure_autotools()
         with tools.environment_append(RunEnvironment(self).vars):
+            autotools = self._configure_autotools()
             autotools.make()
 
     def _extract_license(self):
