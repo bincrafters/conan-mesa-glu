@@ -3,7 +3,7 @@
 
 int main()
 {
-	if(const auto str = gluGetString(GLU_VERSION))
+	if(const GLubyte* str = gluGetString(GLU_VERSION))
 	{
 		std::cout << "Glu version; " << str << std::endl;
 	}
