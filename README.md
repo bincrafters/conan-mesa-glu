@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux & macOS |
 |:--------:|:---------:|:-----------------:|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/package_name%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/package_name%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-package_name?svg=true)](https://ci.appveyor.com/project/bincrafters/conan-package_name)|[![Build Status](https://travis-ci.com/bincrafters/conan-package_name.svg)](https://travis-ci.com/bincrafters/conan-package_name)|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/mesa-glu%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/mesa-glu%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-mesa-glu?svg=true)](https://ci.appveyor.com/project/bincrafters/conan-mesa-glu)|[![Build Status](https://travis-ci.com/bincrafters/conan-mesa-glu.svg)](https://travis-ci.com/bincrafters/conan-mesa-glu)|
 
 ## Conan Information
 
